@@ -1,0 +1,4 @@
+name: NEEnchanted
+version: '${project.version}'
+main: org.alpha.neenchanted.NEEnchanted
+api-version: 1.18

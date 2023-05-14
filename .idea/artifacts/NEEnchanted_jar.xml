@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NEEnchanted:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NEEnchanted_jar</output-path>
+    <root id="archive" name="NEEnchanted.jar">
+      <element id="module-output" name="NEEnchanted" />
+    </root>
+  </artifact>
+</component>
